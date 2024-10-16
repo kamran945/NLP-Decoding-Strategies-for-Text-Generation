@@ -9,6 +9,6 @@
     * **Code Generation**
 
 
-* The following notebook is just a demo showcasing different decoding strategies. It is crucial to experiment with both the model and decoding method to find what works best for your use case.
+* This notebook is just a demo showcasing different decoding strategies. It is crucial to experiment with both the model and decoding method to find what works best for your use case.
 
 * This notebook demonstrates the use of a specific model for text generation from huggingface. It is important to remember that different models may be better suited for specific datasets or tasks. 
